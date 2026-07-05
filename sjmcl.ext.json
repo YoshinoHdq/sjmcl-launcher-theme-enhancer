@@ -1,0 +1,11 @@
+{
+  "identifier": "org.yoshino.launcher-theme-enhancer",
+  "name": "Launcher Theme Enhancer",
+  "description": "Integrates City Weather, Dynamic Background, and Weather Particle Effects into one comprehensive launcher enhancement plugin.",
+  "version": "0.1.0",
+  "author": "hemekewayoshino",
+  "frontend": {
+    "entry": "frontend/index.js"
+  },
+  "minimalLauncherVersion": "1.1.3"
+}
