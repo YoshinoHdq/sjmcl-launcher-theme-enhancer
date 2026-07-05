@@ -18,19 +18,19 @@ Available in two versions:
 
 ## Features
 
-### City Weather
+### 🌤 City Weather
 - Real-time weather data via Open-Meteo API
 - 200+ cities worldwide
 - Weather-matched background particles (rain, snow, thunder, etc.)
 - Atmosphere color overlay with toggle
 
-### Dynamic Video Background
+### 🎬 Dynamic Video Background
 - Upload MP4/WebM/OGG video files
 - Always renders at the lowest layer
 - Volume control slider
 - Play/Pause/Remove controls
 
-### Theme Particle Effects (10 types)
+### ✨ Theme Particle Effects (10 types)
 - Rain, Snow, Sandstorm, Starry Sky, Aurora, Falling Leaves, Underwater, Fire, Sunset, Minecraft Style
 
 ## Installation
